@@ -117,7 +117,7 @@ namespace Testing_01_Intro.BLL.Test
         }
 
         [Fact]
-        public void Sub_DivByZero_Error()
+        public void Div_ByZero_Error()
         {
             // Arrange 
             double val1 = 10;
